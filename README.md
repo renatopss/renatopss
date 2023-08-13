@@ -1,3 +1,4 @@
+
 ### Olá Sou o Renato Santos 🙋🏿
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renato.psantos/)
@@ -5,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Re_TheBoss)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatopss&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias
 
@@ -18,5 +20,5 @@
 <img aling="center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img aling="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img aling="center" alt="Powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img aling="center" alt="bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+<img aling="center" alt="bash" src=https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
